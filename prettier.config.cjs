@@ -3,11 +3,11 @@
 /** @type { PrettierConfig | SortImportsConfig } */
 const config = {
   arrowParens: "always",
-  printWidth: 80,
-  singleQuote: false,
-  semi: true,
-  trailingComma: "all",
-  tabWidth: 2,
+  printWidth: 100,
+  singleQuote: true,
+  semi: false,
+  trailingComma: "es5",
+  bracketSameline: true,
   plugins: [
     "@ianvs/prettier-plugin-sort-imports",
     "prettier-plugin-tailwindcss",
