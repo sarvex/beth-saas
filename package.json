@@ -25,7 +25,7 @@
     "better-sqlite3": "^9.0.0",
     "bun-types": "latest",
     "concurrently": "^8.2.1",
-    "drizzle-kit": "^0.20.0",
+    "drizzle-kit": "^0.21.0",
     "@typescript-eslint/eslint-plugin": "^7.0.0",
     "@typescript-eslint/parser": "^7.0.0",
     "eslint": "^8.49.0",
