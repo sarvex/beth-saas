@@ -49,7 +49,7 @@
     "@iconify-json/logos": "^1.1.37",
     "@iconify-json/lucide": "^1.1.128",
     "@libsql/client": "0.6.1",
-    "@lucia-auth/adapter-sqlite": "^2.0.0",
+    "@lucia-auth/adapter-sqlite": "^3.0.0",
     "@lucia-auth/oauth": "^3.2.0",
     "@t3-oss/env-core": "^0.10.0",
     "@tlscipher/holt": "1.1.3",
