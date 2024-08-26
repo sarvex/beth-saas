@@ -22,7 +22,7 @@
     "@kitajs/ts-html-plugin": "^4.0.0",
     "@total-typescript/ts-reset": "^0.6.0",
     "@unocss/transformer-variant-group": "^0.62.0",
-    "better-sqlite3": "^9.0.0",
+    "better-sqlite3": "^11.0.0",
     "bun-types": "latest",
     "concurrently": "^8.2.1",
     "drizzle-kit": "^0.22.0",
