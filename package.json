@@ -55,7 +55,7 @@
     "@tlscipher/holt": "1.2.0",
     "beth-stack": "0.0.34",
     "drizzle-orm": "^0.33.0",
-    "drizzle-typebox": "^0.1.1",
+    "drizzle-typebox": "^0.3.0",
     "elysia": "1.2.25",
     "lucia": "^3.0.0",
     "pino-pretty": "^11.0.0",
